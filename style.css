@@ -1,0 +1,29 @@
+#date{
+    color: rgb(10,238,10);
+}
+#text{
+    font-size: 100px;
+    color: red;
+}
+#time{
+    text-align: center;
+}
+sub{
+    color: #fff;
+}
+#hour{
+    font-family: 'Bacasime Antique', serif;
+font-family: 'Black Ops One', cursive;
+}
+#minutes{
+    font-family: 'Bacasime Antique', serif;
+font-family: 'Black Ops One', cursive;
+}
+#seconds{
+    font-family: 'Bacasime Antique', serif;
+font-family: 'Black Ops One', cursive;
+}
+#counts{
+    font-family: 'Bacasime Antique', serif;
+font-family: 'Black Ops One', cursive;
+}
